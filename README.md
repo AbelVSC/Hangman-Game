@@ -1,6 +1,20 @@
 # Hangman-Game
-This is one of my personal CS projects. I made a hangman game through python which can be played right in the python terminal. It uses a text file where I stored around 94000+ words. Below is the code I wrote for this game:
+This is one of my personal CS projects. I made a hangman game through python which can be played right in the python terminal. It uses a text file where I stored around 94000+ words.
 
+# About
+This game is a word game where yoou have to guess the spelling of the full word. You will be presented few spaces where you should write your letter. You should keep on guessing each letter of the word until you get to the full word itself.
+
+# Instructions to Play
+1. Download the Hangman Word game.py file and make sure words.txt is in the same folder.
+2. Make sure python is installed.
+3. Open your python terminal.
+4. Navigate to the python file and click it.
+5. Then you will be able to play.
+
+# Code
+Below is the code:
+
+```python
 print("######################################## 🎉WELCOME TO HANGMAN🎉 ########################################")
 print("Please make a choice")
 print("""Your choices are as follows:
